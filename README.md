@@ -36,6 +36,8 @@ j_date	      date		      8	          Not Null	    It stores the journey date.<br
   ![image](https://github.com/mayanksharma20/tour_and_travel/assets/47239249/bafa1609-ff2c-4e2a-8991-8fc478f697da)
   ![image](https://github.com/mayanksharma20/tour_and_travel/assets/47239249/45729b8f-b698-4286-ad40-9aa6bfa4cfa5)
 
+For proper Documentation <br/>contact mayank0708s@gmail.com<br />
+Thankyou!
 
 
 
